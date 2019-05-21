@@ -149,7 +149,7 @@ accordingly. Now we can run what did not work before::
 That's better!
 
 (Now the ``protocol`` object could also be created. That doesn't actually take
-long time, but could, depending on the operating system).
+a long time, but could, depending on the operating system).
 
 
 The response
